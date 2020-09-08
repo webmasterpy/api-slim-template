@@ -1,0 +1,9 @@
+insert_final_newline = true
+
+[app/**.js]
+indent_style = tab
+indent_size = 4
+
+[templates/**.html]
+indent_style = tab
+indent_size = 4
